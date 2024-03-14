@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Fullstack web developer
 -----------------------------
 
+* 🌍  I'm based in Ho Chi Minh city
+* 🖥️  See my portfolio at [MyPorfolio](http://portfolio-zeta-one-65.vercel.app/)
 * ✉️  You can contact me at [danglehoaivu@gmail.com](mailto:danglehoaivu@gmail.com)
 
 ### Skills
