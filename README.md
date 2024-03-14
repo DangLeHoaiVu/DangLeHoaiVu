@@ -8,6 +8,8 @@ I'm a Fullstack web developer
 * 🖥️  See my portfolio at [MyPorfolio](http://portfolio-zeta-one-65.vercel.app/)
 * ✉️  You can contact me at [danglehoaivu@gmail.com](mailto:danglehoaivu@gmail.com)
 
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="400" alt="coding" />
+
 ### Skills
 
 
@@ -23,7 +25,5 @@ I'm a Fullstack web developer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DangLeHoaiVu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DangLeHoaiVu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DangLeHoaiVu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangLeHoaiVu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
